@@ -1,5 +1,5 @@
 # test
 trying out git
-making changes to it x2
+m
 making a change to it
 
